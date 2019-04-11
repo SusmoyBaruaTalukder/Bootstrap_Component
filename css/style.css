@@ -1,0 +1,40 @@
+body
+{
+	background-color: lightgray;
+}
+.background
+{
+	background-color: #563D7C;
+	min-height: 50px;
+	margin: 25px 0;
+	padding-bottom: 10px;
+}
+.grid
+{
+	background-color: #0080FF;
+	min-height: 30px;
+	border: 1px solid black;
+}
+button
+{
+	margin:5px 0;
+}
+p
+{
+	color: white;
+	margin: 5px 0;
+}
+h3
+{
+	margin:5px 0;
+	padding:0 0; 
+}
+h4
+{
+	display: inline;
+}
+.carousel_container
+{
+	margin: 0 auto;
+	width: 50%;
+}
